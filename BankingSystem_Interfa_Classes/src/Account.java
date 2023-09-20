@@ -14,8 +14,6 @@ public class Account extends SavingAccount implements Withdraw , Deposit {
         System.out.println("--------------------------------");
         System.out.println(money+" : Amount Deposit only/-");
         System.out.println("--------------------------------");
-
-
     }
 
     @Override
